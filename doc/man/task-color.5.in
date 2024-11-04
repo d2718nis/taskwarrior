@@ -278,7 +278,7 @@ The keyword rule shown here as 'keyword.' corresponds to a wildcard pattern,
 meaning 'color.keyword.*', or in other words all the keyword rules.
 
 There is also 'color.project.none', 'color.tag.none' and
-'color.uda.priority.none' to specifically represent missing data.
+\[aq]color.uda.priority.none' to specifically represent missing data.
 
 .SH THEMES
 Taskwarrior supports themes.  What this really means is that with the ability to
