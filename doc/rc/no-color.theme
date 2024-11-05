@@ -86,6 +86,7 @@ color.calendar.due=
 color.calendar.due.today=
 color.calendar.holiday=
 color.calendar.overdue=
+color.calendar.scheduled=
 color.calendar.today=
 color.calendar.weekend=
 color.calendar.weeknumber=
