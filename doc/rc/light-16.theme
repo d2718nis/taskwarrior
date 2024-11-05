@@ -83,6 +83,7 @@ color.calendar.due=on bright green
 color.calendar.due.today=blue on bright yellow
 color.calendar.holiday=on yellow
 color.calendar.overdue=on bright red
+color.calendar.scheduled=
 color.calendar.today=blue
 color.calendar.weekend=on white
 color.calendar.weeknumber=blue

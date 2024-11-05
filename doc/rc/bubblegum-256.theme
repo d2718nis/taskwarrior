@@ -84,6 +84,7 @@ color.calendar.due=color0 on rgb325
 color.calendar.due.today=color0 on rgb404
 color.calendar.holiday=color15 on rgb102
 color.calendar.overdue=color0 on color5
+color.calendar.scheduled=
 color.calendar.today=color15 on rgb103
 color.calendar.weekend=gray12 on gray3
 color.calendar.weeknumber=rgb104

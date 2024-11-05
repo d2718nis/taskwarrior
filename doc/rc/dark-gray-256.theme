@@ -83,6 +83,7 @@ color.calendar.due=on gray8
 color.calendar.due.today=black on gray15
 color.calendar.holiday=black on gray20
 color.calendar.overdue=gray2 on gray10
+color.calendar.scheduled=
 color.calendar.today=bold white
 color.calendar.weekend=on gray2
 color.calendar.weeknumber=gray6

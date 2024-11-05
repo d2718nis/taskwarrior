@@ -100,6 +100,7 @@ color.calendar.due=color0 on color9
 color.calendar.due.today=color0 on color1
 color.calendar.holiday=color0 on color3
 color.calendar.overdue=color0 on color5
+color.calendar.scheduled=
 color.calendar.today=color0 on color4
 color.calendar.weekend=on color0
 color.calendar.weeknumber=color4

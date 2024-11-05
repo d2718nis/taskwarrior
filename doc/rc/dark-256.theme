@@ -82,6 +82,7 @@ color.summary.bar=black on rgb141
 color.calendar.due.today=color15 on color1
 color.calendar.due=color0 on color1
 color.calendar.holiday=color0 on color11
+color.calendar.scheduled=
 color.calendar.overdue=color0 on color9
 color.calendar.today=color15 on rgb013
 color.calendar.weekend=on color235
